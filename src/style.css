@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto;
+    background-color: #f1faff;
+}
+nav {
+    display: flex;
+    padding: 20px 30px;
+    background-color: #bedbec;
+    align-items: center;
+    font-size: large;
+}
+nav > h3 {
+    color: #054894;
+    margin-right: auto;
+}
+nav > h4 {
+    color: #01214d;
+}
+nav > img{
+    height: 70px;
+    margin-right: 20px;
+    
+}

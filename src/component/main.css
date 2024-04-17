@@ -1,0 +1,20 @@
+.Main {
+ 
+    margin: 30px;
+    background-image: url("../assets/images/logo.png"); /* Adjust the path as needed */
+
+    /* Set background properties */
+    background-repeat: no-repeat;
+    background-size: contain; /* Adjust as needed */
+    background-position: right center; 
+    
+
+}
+.Main > ul {
+    line-height: 50px;
+}
+
+.Main > li::marker{
+    font-size: 3rem;
+    color: #9b0c0c;
+}
