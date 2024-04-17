@@ -6,7 +6,7 @@ export default function Main (){
     return(
         <main className="Main">
             <h2>Nilofar Abi Online and On-site shop</h2>
-            <ul>
+            <ul className="main-ul">
                 <li>
                     shose
                 </li>

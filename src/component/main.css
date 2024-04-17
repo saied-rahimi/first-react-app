@@ -10,11 +10,11 @@
     
 
 }
-.Main > ul {
+.main-ul > li{
     line-height: 50px;
 }
 
-.Main > li::marker{
-    font-size: 3rem;
-    color: #9b0c0c;
+.main-ul > li::marker{
+    font-size: 1.4rem;
+    color: #0c399b;
 }
